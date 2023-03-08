@@ -1,0 +1,23 @@
+{
+    "name": "create-bruv",
+    "version": "1.3.0",
+    "description": "bruvvvvvvv",
+    "main": "index.js",
+    "bin": {
+        "create-bruv": "./index.js"
+    },
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/404invalid-user/create-bruv.git"
+    },
+    "author": "404invalid-user",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/404invalid-user/create-bruv/issues"
+    },
+    "homepage": "https://github.com/404invalid-user/create-bruv#readme",
+    "dependencies": {}
+}
